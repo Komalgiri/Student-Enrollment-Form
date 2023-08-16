@@ -28,9 +28,6 @@ JsonPowerDB is used to perform CURD operation
 * JAVASCRIPT 
 * JsonPowerDB ( As Database)
 
-# Screenshots:
-<img src="/images/save_data_1.png">
-<img src="./images/database.png">
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
