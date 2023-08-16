@@ -4,7 +4,6 @@
 - [Description](#description)
 - [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Illustrations](#illustrations)
 - [How to Use](#how-to-use)
 - [Installation](#installation)
